@@ -1,0 +1,11 @@
+# basic options
+title: MyFirstBlog
+author: peter28
+email: 995614092@qq.com
+description: A wonderful blog
+twitter_username: peter28
+github_username:  Gpeter28
+
+# Build settings
+markdown: kramdown
+theme: minima
