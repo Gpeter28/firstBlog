@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: first post
 ---
 //categories: 11111
