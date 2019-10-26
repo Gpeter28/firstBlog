@@ -1,0 +1,18 @@
+---
+layout: page
+title: problem
+---
+## 开始 ##
+
+一开始呢是从LNMP搭建开始的。从阿里云服务器里搭建的。但是阿里云是用都CentoS,但我本地用的debian 觉得折腾完 对实际的使用没有很大帮助。就想找点简单的博客搭建。我朋友呢推荐了**wp，zblog, Jekyll, typeecho**。接着我发现了Jekyll是可以通过github直接实现的。就开始以**Jekyll**作为框架来弄博客。
+
+
+## 动手 ##
+当然第一步是youtube搜一搜教程。
+<https://www.youtube.com/watch?v=SWVjQsvQocA&t=4241s>是我找的第一个视频。第一次的搭建比较轻松，但也遇到了几个bug。
+
+
+
+## 拓展 ##
+在<http://jekyllthemes.org/>上 我找到了很多不同的主题，相较于初始主题，有更多拓展，目前正在学习
+
