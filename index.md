@@ -1,8 +1,12 @@
 ---
-layout: default
-title: Tdefault
+title: Home
 ---
-
-#This is default page#
-
-This page is default and i am now testing it
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <h1>{{ "Hello World!" | downcase }}</h1>
+  </body>
+</html>
