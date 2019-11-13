@@ -8,18 +8,18 @@ title: Shenzhen I/O
 
 
 ## Instruction Operands ##
-R Register
-I Integer(-999 to 999)
-R/I   Register or Integer
-P     Pin register(p0, p1, x0 etc)
+R Register  
+I Integer(-999 to 999)  
+R/I   Register or Integer  
+P     Pin register(p0, p1, x0 etc)  
 L     Label
 
 
 ## Basic Instructions ##
-nop   no effect
-mov R/I R   cp first value to second
-jmp L      jump to :L
-slp R/I   sleep
+nop   no effect  
+mov R/I R   cp first value to second  
+jmp L      jump to :L  
+slp R/I   sleep  
 slx P    sleep until data is available
 
 
