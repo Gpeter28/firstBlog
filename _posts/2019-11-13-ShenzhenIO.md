@@ -4,7 +4,7 @@ title: Shenzhen I/O
 ---
 
 # New #
-开了新坑，挺好玩的汇编
+开了新坑，挺好玩的汇编游戏。（纸牌游戏也是很棒）
 
 
 ## Instruction Operands ##
